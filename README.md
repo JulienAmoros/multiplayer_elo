@@ -5,7 +5,7 @@ Runs with Python 3
 Start with a file `scoreboard.json` containing only `[]`
 
 ## play a game
-Change PLAYERS variable with players' names who played last game.
+In `elo.py`, change PLAYERS variable with players' names who played last game.
 Execute the script.
 Choose if you want to save new calculated leaderboard or not (yes/no)
 
